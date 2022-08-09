@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "videochat",
+    "slug": "videochat",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
