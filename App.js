@@ -7,8 +7,8 @@ import Video from "./components/Video";
 export default function App() {
   return (
     <View style={styles.container}>
-      <Video />
-      {/* <CallingScreen /> */}
+      {/* <Video /> */}
+      <CallingScreen />
       {/* <Button iconName="video" onPress={() => {}} backgroundColor="grey" /> */}
     </View>
   );
